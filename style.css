@@ -1,0 +1,14 @@
+.container{
+    width:75%;
+    border:1px solid black;
+    margin: 0 auto;
+    text-align: center;
+}
+.flex-box-pick-color {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid navy;
+    padding: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
